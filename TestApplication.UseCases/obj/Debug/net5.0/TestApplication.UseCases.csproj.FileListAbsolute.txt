@@ -1,0 +1,15 @@
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\bin\Debug\net5.0\TestApplication.UseCases.deps.json
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\bin\Debug\net5.0\TestApplication.UseCases.dll
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\bin\Debug\net5.0\TestApplication.UseCases.pdb
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\bin\Debug\net5.0\TestApplication.Infrastructure.dll
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\bin\Debug\net5.0\TestApplication.Infrastructure.pdb
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\obj\Debug\net5.0\TestApplication.UseCases.csproj.AssemblyReference.cache
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\obj\Debug\net5.0\TestApplication.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\obj\Debug\net5.0\TestApplication.UseCases.AssemblyInfoInputs.cache
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\obj\Debug\net5.0\TestApplication.UseCases.AssemblyInfo.cs
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\obj\Debug\net5.0\TestApplication.UseCases.csproj.CoreCompileInputs.cache
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\obj\Debug\net5.0\TestApplication.UseCases.csproj.CopyComplete
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\obj\Debug\net5.0\TestApplication.UseCases.dll
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\obj\Debug\net5.0\refint\TestApplication.UseCases.dll
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\obj\Debug\net5.0\TestApplication.UseCases.pdb
+C:\GitHome\AirportTestApplication\TestApplication.UseCases\obj\Debug\net5.0\ref\TestApplication.UseCases.dll

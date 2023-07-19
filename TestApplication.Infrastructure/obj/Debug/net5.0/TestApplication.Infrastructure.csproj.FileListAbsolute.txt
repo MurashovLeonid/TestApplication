@@ -1,0 +1,15 @@
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\bin\Debug\net5.0\TestApplication.Infrastructure.deps.json
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\bin\Debug\net5.0\TestApplication.Infrastructure.runtimeconfig.json
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\bin\Debug\net5.0\TestApplication.Infrastructure.runtimeconfig.dev.json
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\bin\Debug\net5.0\TestApplication.Infrastructure.dll
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\bin\Debug\net5.0\TestApplication.Infrastructure.pdb
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\obj\Debug\net5.0\TestApplication.Infrastructure.csproj.AssemblyReference.cache
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\obj\Debug\net5.0\TestApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\obj\Debug\net5.0\TestApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\obj\Debug\net5.0\TestApplication.Infrastructure.AssemblyInfo.cs
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\obj\Debug\net5.0\TestApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\obj\Debug\net5.0\TestApplication.Infrastructure.dll
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\obj\Debug\net5.0\refint\TestApplication.Infrastructure.dll
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\obj\Debug\net5.0\TestApplication.Infrastructure.pdb
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\obj\Debug\net5.0\TestApplication.Infrastructure.genruntimeconfig.cache
+C:\GitHome\AirportTestApplication\TestApplication.Infrastructure\obj\Debug\net5.0\ref\TestApplication.Infrastructure.dll
